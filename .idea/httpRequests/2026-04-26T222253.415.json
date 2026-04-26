@@ -1,0 +1,6 @@
+{
+  "timestamp": "2026-04-26T16:52:53.684Z",
+  "status": 415,
+  "error": "Unsupported Media Type",
+  "path": "/auth/login"
+}

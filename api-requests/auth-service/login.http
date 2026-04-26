@@ -1,0 +1,10 @@
+### Login request
+POST http://localhost:5001/api/auth/login
+Content-Type: application/json
+
+{
+  "email": "testuser@test.com",
+  "password": "password123"
+}
+
+###

@@ -1,19 +1,20 @@
 server:
-  port: 5000
+  port: 5001
 
 spring:
   cloud:
     gateway:
       routes:
         - id: patient-service-route
-          uri: http://localhost:4000
+          uri: http://patient-service:4000
           predicates:
             - Path=/api/patients/**
           filters:
             - StripPrefix=1
+            - JwtValidation
 
         - id: auth-service-route
-          uri: http://localhost:4004
+          uri: http://auth-service:4004
           predicates:
             - Path=/api/auth/**
           filters:

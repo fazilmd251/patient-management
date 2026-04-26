@@ -1,0 +1,107 @@
+[
+  {
+    "id": "123e4567-e89b-12d3-a456-426614174000",
+    "email": "john.doe@example.com",
+    "name": "John Doe",
+    "address": "123 Main St, Springfield",
+    "dateOfBirth": "1985-06-15"
+  },
+  {
+    "id": "123e4567-e89b-12d3-a456-426614174001",
+    "email": "jane.smith@example.com",
+    "name": "Jane Smith",
+    "address": "456 Elm St, Shelbyville",
+    "dateOfBirth": "1990-09-23"
+  },
+  {
+    "id": "123e4567-e89b-12d3-a456-426614174002",
+    "email": "alice.johnson@example.com",
+    "name": "Alice Johnson",
+    "address": "789 Oak St, Capital City",
+    "dateOfBirth": "1978-03-12"
+  },
+  {
+    "id": "123e4567-e89b-12d3-a456-426614174003",
+    "email": "bob.brown@example.com",
+    "name": "Bob Brown",
+    "address": "321 Pine St, Springfield",
+    "dateOfBirth": "1982-11-30"
+  },
+  {
+    "id": "123e4567-e89b-12d3-a456-426614174004",
+    "email": "emily.davis@example.com",
+    "name": "Emily Davis",
+    "address": "654 Maple St, Shelbyville",
+    "dateOfBirth": "1995-02-05"
+  },
+  {
+    "id": "223e4567-e89b-12d3-a456-426614174005",
+    "email": "michael.green@example.com",
+    "name": "Michael Green",
+    "address": "987 Cedar St, Springfield",
+    "dateOfBirth": "1988-07-25"
+  },
+  {
+    "id": "223e4567-e89b-12d3-a456-426614174006",
+    "email": "sarah.taylor@example.com",
+    "name": "Sarah Taylor",
+    "address": "123 Birch St, Shelbyville",
+    "dateOfBirth": "1992-04-18"
+  },
+  {
+    "id": "223e4567-e89b-12d3-a456-426614174007",
+    "email": "david.wilson@example.com",
+    "name": "David Wilson",
+    "address": "456 Ash St, Capital City",
+    "dateOfBirth": "1975-01-11"
+  },
+  {
+    "id": "223e4567-e89b-12d3-a456-426614174008",
+    "email": "laura.white@example.com",
+    "name": "Laura White",
+    "address": "789 Palm St, Springfield",
+    "dateOfBirth": "1989-09-02"
+  },
+  {
+    "id": "223e4567-e89b-12d3-a456-426614174009",
+    "email": "james.harris@example.com",
+    "name": "James Harris",
+    "address": "321 Cherry St, Shelbyville",
+    "dateOfBirth": "1993-11-15"
+  },
+  {
+    "id": "223e4567-e89b-12d3-a456-426614174010",
+    "email": "emma.moore@example.com",
+    "name": "Emma Moore",
+    "address": "654 Spruce St, Capital City",
+    "dateOfBirth": "1980-08-09"
+  },
+  {
+    "id": "223e4567-e89b-12d3-a456-426614174011",
+    "email": "ethan.martinez@example.com",
+    "name": "Ethan Martinez",
+    "address": "987 Redwood St, Springfield",
+    "dateOfBirth": "1984-05-03"
+  },
+  {
+    "id": "223e4567-e89b-12d3-a456-426614174012",
+    "email": "sophia.clark@example.com",
+    "name": "Sophia Clark",
+    "address": "123 Hickory St, Shelbyville",
+    "dateOfBirth": "1991-12-25"
+  },
+  {
+    "id": "223e4567-e89b-12d3-a456-426614174013",
+    "email": "daniel.lewis@example.com",
+    "name": "Daniel Lewis",
+    "address": "456 Cypress St, Capital City",
+    "dateOfBirth": "1976-06-08"
+  },
+  {
+    "id": "223e4567-e89b-12d3-a456-426614174014",
+    "email": "isabella.walker@example.com",
+    "name": "Isabella Walker",
+    "address": "789 Willow St, Springfield",
+    "dateOfBirth": "1987-10-17"
+  }
+]

@@ -1,0 +1,5 @@
+### GET request to example server
+GET http://localhost:5001/api/auth/validate
+Authorization: Bearer eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJ0ZXN0dXNlckB0ZXN0LmNvbSIsInJvbGUiOiJBRE1JTiIsImlhdCI6MTc3NzIyODc1MywiZXhwIjoxNzc3MjY0NzUzfQ.gJkl8w5ZTAWwE9lS1I6uL0n7NJLlvN2yftUxR6uye-sVMVcgUnLYPnyHnzXBUEvY
+
+###
